@@ -1,4 +1,5 @@
 # vue-demo
+@vue/cli 5.0.8、vue2 + vue-router@3 + vuex@3
 
 ## Project setup
 ```
@@ -21,4 +22,4 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/
